@@ -1,0 +1,9 @@
+{
+    "name": "FlOrkstrument1",
+    "version": "1.0.0",
+    "main": "launch.js",
+    "ignore": [],
+    "dependencies": {
+        "flocking": "git://github.com/colinbdclark/Flocking.git"
+    }
+}
